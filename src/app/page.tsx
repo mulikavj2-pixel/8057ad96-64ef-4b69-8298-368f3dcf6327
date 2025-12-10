@@ -98,8 +98,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1765379816986-arhqnpki.jpg",
               imageAlt: "Double Espresso Shot",
               button: {
-                text: "Order Espresso",
-                id: "order-espresso"
+                text: "Order Espresso"
               }
             },
             {
@@ -107,8 +106,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1765379818272-125y0nv5.jpg",
               imageAlt: "Cappuccino with Latte Art",
               button: {
-                text: "Order Cappuccino",
-                id: "order-cappuccino"
+                text: "Order Cappuccino"
               }
             },
             {
@@ -116,8 +114,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1765379819798-il1xqiwa.jpg",
               imageAlt: "Iced Cold Brew",
               button: {
-                text: "Order Cold Brew",
-                id: "order-cold-brew"
+                text: "Order Cold Brew"
               }
             }
           ]}
